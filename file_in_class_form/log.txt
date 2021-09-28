@@ -1,0 +1,14 @@
+INFO :: source file open
+INFO :: first a first welcome in context
+INFO :: first a first to in context
+INFO :: first a first great in context
+INFO :: first a first learning in context
+INFO :: first a first now in context
+INFO :: first a first start in context
+INFO :: find a another learning in context
+INFO :: find a another learning in context
+INFO :: first a first is in context
+INFO :: first a first a in context
+INFO :: first a first good in context
+INFO :: first a first practice in context
+INFO :: destination file was created
